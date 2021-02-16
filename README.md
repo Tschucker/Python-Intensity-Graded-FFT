@@ -14,4 +14,5 @@ RTLSDR Sample Plot
 ![](images/fig3_intensity.png)
 
 ## Animated Plot
+![](images/qpsk_animation.GIF)
 ![](images/rtlsdr_animation.GIF)
