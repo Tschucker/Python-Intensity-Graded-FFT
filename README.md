@@ -14,5 +14,4 @@ RTLSDR Sample Plot
 ![](images/fig3_intensity.png)
 
 ## Animated Plot
-You can view an example video animation here. 
-[Video](https://vimeo.com/510766795)
+![](images/rtlsdr_animation.GIF)
