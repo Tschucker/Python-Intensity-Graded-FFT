@@ -16,7 +16,9 @@ RTLSDR Sample Plot
 
 ## Animated Plot
 QPSK Sample Animation
+
 ![](images/qpsk_animation.GIF)
 
 RTLSDR Sample Animation
+
 ![](images/rtlsdr_animation.GIF)
